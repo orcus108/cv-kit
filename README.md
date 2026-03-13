@@ -1,7 +1,5 @@
 # cv-kit
 
-> https://github.com/orcus108/cv-kit
-
 A LaTeX-based resume generator. Maintain one master resume as structured blocks, then assemble tailored variants for different job applications — each compiling to a professional PDF via `pdflatex`.
 
 ## The problem it solves
